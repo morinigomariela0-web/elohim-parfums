@@ -12,7 +12,7 @@ import {
 import { useCart } from '../context/CartContext';
 import { formatCurrencyPYG } from '../data/products';
 
-const WHATSAPP_NUMBER = '595999000000';
+const WHATSAPP_NUMBER = '595972736447';
 
 export function buildWhatsAppOrderUrl({ items, totalPrice, fullName, address }) {
   const lines = [
